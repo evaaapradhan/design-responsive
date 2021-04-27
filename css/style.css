@@ -189,7 +189,8 @@
 	padding: 0px 0px 0px 5px;
 }
 .post-info ul li:last-child a{
-	color: #8fb057;
+	color: #69a305;
+	font-weight: bold;
 }
 .post-info p{
 	font-size: 13px;
