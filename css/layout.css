@@ -22,8 +22,9 @@
 .search-button{
 	background: url(../images/search-button.png) no-repeat;
 	width: 53px; 
-	margin-left: 4px;
+	margin-left: 310px;
 	float: left;
+	margin-top: -25px;
 }
 .user-nav-info{
 	width: 21.3219616205%;	
